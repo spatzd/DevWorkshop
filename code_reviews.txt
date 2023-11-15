@@ -1,1 +1,13 @@
+1. Similarities: both guidelines say "smaller = better"
+                  both talk about focusing on important things about the code
+    Differences: Microsoft uses something called "Emoji Code"
+                  Yelp provides an actual reviewing checklist
+  In general, code should be able to be understood, good quality, well tested, and safe 
 
+2. https://codereview.stackexchange.com/questions/287936/image-processing-application-in-c
+
+  This is a good review for an image processing application in c. It is good because the review includes headers for each section where the reviewer talks about what is being reviewed in that section and it is well organized. It also explains well in depth the issues with the code.
+
+3. https://codereview.stackexchange.com/questions/287818/delete-rows-based-on-references-to-other-tables-in-a-mysql-database
+                  
+  This is code review for delete_by_labeltype which is for a mysql database. This code review is not very good because it is not very organized when it coems to the actual review. While it does provide expalnation for what could be improved, it focuses on only certain asepcts of it and fails to address other aspects.
